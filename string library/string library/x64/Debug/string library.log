@@ -1,0 +1,9 @@
+﻿  string library.cpp
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string library.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string_library.h(102,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string_library.h(137,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string_library.h(158,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string_library.h(354,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string_library.h(358,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\new search\ICPC\sheet assuit\basics\string library\string library\string_library.h(373,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  string library.vcxproj -> G:\new search\ICPC\sheet assuit\basics\string library\x64\Debug\string library.exe
